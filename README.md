@@ -12,3 +12,9 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run tts:
+```bash
+py speech.py
+```
